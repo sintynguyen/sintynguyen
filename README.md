@@ -22,9 +22,6 @@
   <a href="https://github.com/sintynguyen" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
   <a href="mailto:tt.varick30@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
@@ -49,10 +46,4 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RPDXKCV6B83K)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+

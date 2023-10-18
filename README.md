@@ -46,5 +46,8 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RPDXKCV6B83K)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Excel Skills for Business: Essentials](https://drive.google.com/file/d/1zLRLPFSU4yfCXNuQwY6jP1GXiOrV87w9/view)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) Excel Skills for Business: Essentials](https://drive.google.com/file/d/1zLRLPFSU4yfCXNuQwY6jP1GXiOrV87w9/view)
+- [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-green) SQL (Basic) Certificate](https://www.hackerrank.com/certificates/49307bfb1b7a)
+- [![HACKERRANK](https://img.shields.io/badge/-HACKERRANK-green) SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/58571d53de99)
 - [![UDEMY](https://img.shields.io/badge/-UDEMY-orange) Python for Business and Finance](https://www.udemy.com/certificate/UC-19f72b80-3ab6-4817-aaa4-7e116289fdc1/)
-

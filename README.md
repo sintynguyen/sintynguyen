@@ -46,4 +46,5 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-blue) IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RPDXKCV6B83K)
+- [![UDEMY](https://img.shields.io/badge/-UDEMY-orange) Python for Business and Finance](https://www.udemy.com/certificate/UC-19f72b80-3ab6-4817-aaa4-7e116289fdc1/)
 
